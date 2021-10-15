@@ -11,7 +11,6 @@ public class CryptoTestPublic {
 		String str7 = "WKLV#LV#DQRWKHU#WHVW";
 		String str8 = "WU\\VR9F#N!RF88U-'HED";
 
-
 		boolean good = CryptoManager.stringInBounds(str1);
 		boolean notGood = CryptoManager.stringInBounds(str2);
 		
